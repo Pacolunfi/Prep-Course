@@ -1,0 +1,24 @@
+variable:
+
+var a = numbers
+
+*string = una cadena de caracteres
+string = "hola"
+string = "23"
+string + "hello"
+
+funcion (a, b) => {
+    return a+b
+}
+funcion (2, 3) => {
+    console.log 2+3
+}
+funcion suma (a, b) {
+    return a+b
+}
+
+*Declaracion if
+
+if(condicion){
+    lee lo que esta aqui
+}
